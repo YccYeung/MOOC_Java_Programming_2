@@ -1,0 +1,5 @@
+FlightControl\Domain\Airline.class
+FlightControl\Logic\AssetControl.class
+FlightControl\Main.class
+FlightControl\UI\UserInterface.class
+FlightControl\Domain\Flight.class
